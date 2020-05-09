@@ -1,5 +1,5 @@
 # RefrigeratorRecipes
-Recommends recipes based on the ingredients you give it, along with the steps to make it
+Recommends recipes based on the ingredients you give it, along with the steps to make it using Food.com dataset
 
 
 In order to execute this script, you will need:
