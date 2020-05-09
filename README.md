@@ -3,7 +3,7 @@ Recommends recipes based on the ingredients you give it, along with the steps to
 
 
 In order to execute this script, you will need:
-- RAW.recipes.csv from https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions#RAW_recipes.csv
+- RAW_recipes.csv from https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions#RAW_recipes.csv
 - pandas, spellchecker, inflect libraries installed for spelling checking and plural/singular converison
 
 
