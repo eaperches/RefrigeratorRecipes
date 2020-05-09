@@ -8,11 +8,14 @@ In order to execute this script, you will need:
 
 
 The program guarantess similarty between your ingredients and the recipe up to 60%
+
 Ex:
+
 Input:
 ['apple', 'orange', 'pear', 'cider', 'beer', 'wine']
 
 Output:
+
 [name                                    apple orange blend juice
 ingredients                ['apples', 'pear', 'orange', 'lemon']
 steps          ['wash apples , pear and lemon', 'core apples ...
