@@ -12,7 +12,7 @@ The program guarantess similarty between your ingredients and the recipe up to 6
 Ex:
 
 Input:
-['apple', 'orange', 'pear', 'cider', 'beer', 'wine']
+['apple', 'orange', 'pear', 'lemon', 'beer', 'wine']
 
 Output:
 [name                                    apple orange blend juice
