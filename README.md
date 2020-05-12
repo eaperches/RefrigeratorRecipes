@@ -7,8 +7,6 @@ In order to execute this script, you will need:
 - pandas, spellchecker, inflect libraries installed for spelling checking and plural/singular converison
 
 
-The program guarantess similarty between your ingredients and the recipe up to 60%
-
 Ex:
 
 Input:
